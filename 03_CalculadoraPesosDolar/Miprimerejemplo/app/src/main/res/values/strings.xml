@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="dolar">Dólar:</string>
+    <string name="pesos">Pesos:</string>
+    <string name="dolar2pesos">Convertir dólar en pesos</string>
+    <string name="pesos2dolar">Convertir pesos en dólar</string>
+    <string name="valorInvalido">¡Valor introducido inválido!</string>
+    <string name="salir">Salir</string>
+    <string name="m_dolar2pesos">Dólar a pesos</string>
+    <string name="m_pesos2dolar">Pesos a dólar</string>
+</resources>

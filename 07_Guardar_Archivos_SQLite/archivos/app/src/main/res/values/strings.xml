@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memoria</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="escribir_mem">Escribir Archivo</string>
+    <string name="leer_mem">Leer Archivo</string>
+    <string name="leer_raw">Leer Raw</string>
+    <string name="nombre"> Escribe tu Nombre Completo </string>
+    <string name="aceptar"> Aceptar </string>
+</resources>

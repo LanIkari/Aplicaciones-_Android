@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prog2_If_Consumo</string>
+    <string name="montoCompra">Ingrese el monto de compra:</string>
+    <string name="calcularDescuento">Calcular descuento</string>
+</resources>

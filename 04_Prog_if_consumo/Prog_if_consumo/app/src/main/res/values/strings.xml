@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcular Descuento</string>
+    <string name="calcular_descuento">Calcular Descuento</string >
+    <string name="textview">MontoC</string>
+    <string name="textview2">Descuento</string>
+    <string name="textview3">CostoNeto</string>
+    <string name="calcular_descuento1">Calcular Descuento</string>
+    <string name="costoneto">Impuesto</string>
+    <string name="impuesto">ImporteNeto</string>
+</resources>

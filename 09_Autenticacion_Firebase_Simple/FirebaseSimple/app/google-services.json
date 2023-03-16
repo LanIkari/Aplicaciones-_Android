@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "334267661207",
+    "firebase_url": "https://carinsurance-69f25.firebaseio.com",
+    "project_id": "carinsurance-69f25",
+    "storage_bucket": "carinsurance-69f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334267661207:android:35e28899cc900a73",
+        "android_client_info": {
+          "package_name": "mx.dgtic.diplomado.carinsurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334267661207-ibnhld1c0uqc9egi61cip8001ab71maq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94TKZhzsMV7tKj5kJecczHqckgifH058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334267661207-ibnhld1c0uqc9egi61cip8001ab71maq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334267661207:android:35d7f6903bc3c7c137a2d2",
+        "android_client_info": {
+          "package_name": "mx.unam.curso.firebasesimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334267661207-98v784adupr79ao079qvhp81d6gmbmtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.unam.curso.firebasesimple",
+            "certificate_hash": "3db05b8141e8388cb633bdaa4e2e087401400834"
+          }
+        },
+        {
+          "client_id": "334267661207-ibnhld1c0uqc9egi61cip8001ab71maq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94TKZhzsMV7tKj5kJecczHqckgifH058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334267661207-ibnhld1c0uqc9egi61cip8001ab71maq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334267661207:android:51bb010c8b339ea937a2d2",
+        "android_client_info": {
+          "package_name": "mx.unam.curso.simplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334267661207-gu0kmjej25iqf1v01pt3rjn5qd84fka1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.unam.curso.simplefirebase",
+            "certificate_hash": "3db05b8141e8388cb633bdaa4e2e087401400834"
+          }
+        },
+        {
+          "client_id": "334267661207-ibnhld1c0uqc9egi61cip8001ab71maq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94TKZhzsMV7tKj5kJecczHqckgifH058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334267661207-ibnhld1c0uqc9egi61cip8001ab71maq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
